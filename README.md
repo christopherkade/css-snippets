@@ -2,9 +2,10 @@ A collection of relevant CSS examples (with images & Codepen links)
 
 ## Table of Contents
 
-1. **[Grid](#grid)**
+1. **[Grid layout](#grid)**
 2. **[Rotating Cube](#cube)**
-3. **[Bubble](#bubble)**
+3. **[Animated Bubble](#bubble)**
+4. **[Rotating Sphere](#sphere)**
 
 
 ## Grid
@@ -32,3 +33,10 @@ An animated bubble.
 
 :pencil2: [Code](https://codepen.io/christopherkade/pen/wpGmdY)
 
+## Sphere
+
+A rotating sphere.
+
+<img src="https://user-images.githubusercontent.com/15229355/34171371-049a2d3e-e4e6-11e7-8d5a-d1acc5487088.png" alt="Sphere" width="200" height="200">
+
+:pencil2: [Code](https://codepen.io/christopherkade/pen/vpGRWd)
