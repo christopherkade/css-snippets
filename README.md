@@ -42,6 +42,8 @@ A rotating sphere.
 
 ## Prompt
 
+A prompt-like effect.
+
 <img src="https://user-images.githubusercontent.com/15229355/34177291-0791926a-e4fb-11e7-9cc2-117ba446a1a1.png">
 
 :pencil2: [Code](https://codepen.io/christopherkade/pen/KZzBwJ)
