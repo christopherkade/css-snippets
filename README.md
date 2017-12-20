@@ -48,7 +48,13 @@ A rotating sphere.
 
 > Elegant and unnecessarily extra CSS buttons.
 
-No snippets available yet, you can help filling up this section by [contributing](https://github.com/christopherkade/css-snippets/blob/master/CONTRIBUTING.md).
+## Flat
+
+Simple buttons with multiple animations.
+
+<img src="https://user-images.githubusercontent.com/15229355/34215785-659d1d5e-e59e-11e7-8e4e-0503b332a413.png">
+
+:pencil2: [Code](https://codepen.io/christopherkade/pen/VyaBBy)
 
 # Menus
 
