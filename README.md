@@ -1,20 +1,24 @@
 A collection of relevant CSS examples (with images & Codepen links)
 
-## Table of Contents
+## Types
 
-1. **[Grid layout](#grid)**
-2. **[Rotating Cube](#cube)**
-3. **[Animated Bubble](#bubble)**
-4. **[Rotating Sphere](#sphere)**
-5. **[Prompt Effect](#prompt)**
+1. **[Animations](#animations)**
+2. **[Buttons](#buttons)**
+3. **[Menus](#menus)**
+4. **[Layouts](#layouts)**
+5. **[Misc](#miscellaneous)**
 
-## Grid
+# Animations
 
-A simple layout using the CSS grid display.
+> Simple and complex CSS animations.
 
-<img src="https://user-images.githubusercontent.com/15229355/34170285-391b33ae-e4e2-11e7-9c85-3c364070e422.png" alt="Grid" width="400" height="200">
+## Moving balls
 
-:pencil2: [Code](https://codepen.io/christopherkade/pen/ppyavp)
+A background of random moving balls.
+
+<img src="https://user-images.githubusercontent.com/15229355/34201600-e8715a7e-e56c-11e7-99d8-ba1fd9b35035.png" alt="Balls" width="500" height="150">
+
+:pencil2: [Code](https://codepen.io/christopherkade/pen/LeZYqz)
 
 ## Cube
 
@@ -39,6 +43,36 @@ A rotating sphere.
 <img src="https://user-images.githubusercontent.com/15229355/34171371-049a2d3e-e4e6-11e7-8d5a-d1acc5487088.png" alt="Sphere" width="200" height="200">
 
 :pencil2: [Code](https://codepen.io/christopherkade/pen/vpGRWd)
+
+# Buttons
+
+> Elegant and unnecessarily extra CSS buttons.
+
+No snippets available yet, you can help filling up this section by [contributing](https://github.com/christopherkade/css-snippets/blob/master/CONTRIBUTING.md).
+
+# Menus
+
+> Simple and useful CSS menus.
+
+No snippets available yet, you can help filling up this section by [contributing](https://github.com/christopherkade/css-snippets/blob/master/CONTRIBUTING.md).
+
+# Layouts
+
+> Beautiful and weird CSS layouts.
+
+No snippets available yet, you can help filling up this section by [contributing](https://github.com/christopherkade/css-snippets/blob/master/CONTRIBUTING.md).
+
+# Miscellaneous
+
+> Things that don't belong to any specific category. :squirrel:
+
+## Grid
+
+A simple stripe using the CSS grid display.
+
+<img src="https://user-images.githubusercontent.com/15229355/34170285-391b33ae-e4e2-11e7-9c85-3c364070e422.png" alt="Grid" width="400" height="200">
+
+:pencil2: [Code](https://codepen.io/christopherkade/pen/ppyavp)
 
 ## Prompt
 
